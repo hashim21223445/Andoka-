@@ -1,0 +1,7 @@
+priority_rules:
+  - name: "gbw Exploration "
+    priority: medium
+    conditions:
+      - and:
+          - base = main
+    allow_checks_interruption: true
