@@ -37,7 +37,7 @@
     "@stackbit/cms-git": "^1.0.35",
     "@stackbit/types": "^2.0.1",
     "autoprefixer": "^10.4.21",
-    "eslint": "^9.38.0",
+    "eslint": "^9.39.2",
     "eslint-config-next": "^16.0.2",
     "eslint-config-prettier": "^10.1.8",
     "postcss": "^8.5.6",
