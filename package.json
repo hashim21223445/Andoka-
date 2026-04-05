@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@stackbit/cms-git": "^1.0.35",
-    "@stackbit/types": "^2.0.1",
+    "@stackbit/types": "^2.1.15",
     "autoprefixer": "^10.4.23",
     "eslint": "^9.38.0",
     "eslint-config-next": "^16.0.2",
