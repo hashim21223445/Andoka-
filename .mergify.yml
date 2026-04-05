@@ -5,3 +5,5 @@ priority_rules:
       - and:
           - base = main
     allow_checks_interruption: true
+merge_protections_settings:
+  reporting_method: check-runs
